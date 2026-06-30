@@ -1,5 +1,5 @@
 {
-  "name": "@viralclawos/integrations",
+  "name": "@viralclawxyz/integrations",
   "version": "0.1.0",
   "private": true,
   "main": "./src/index.ts",
@@ -8,7 +8,7 @@
     "type-check": "tsc --noEmit"
   },
   "dependencies": {
-    "@viralclawos/core": "workspace:*",
+    "@viralclawxyz/core": "workspace:*",
     "zod": "^3.22.4"
   },
   "devDependencies": {
